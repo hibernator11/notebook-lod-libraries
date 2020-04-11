@@ -4,7 +4,7 @@
 Jupyter notebook to create a composite image using covers of books from digital libraries.
 
 ## Biblioteca Virtual Miguel de Cervantes (BVMC)
-This notebook retrieves the covers from the LOD repository of the BVMC. The authors selected in this example are [Miguel de Cervantes](http://data.cervantesvirtual.com/person/40), [Lope de Vega](http://data.cervantesvirtual.com/person/72) y [Calderón de la Barca](http://data.cervantesvirtual.com/person/79)). It is possible to change the authors by changing the identifiers (data.cervantesvirtual.com/person/id) that can be retrieved at data.cervantesvirtual.com.
+This [notebook](create-composite-bvmc.ipynb) retrieves the covers from the Linked Open Data repository of the BVMC, data.cervantesvirtual.com. The covers of the books have been selected based on the authors [Miguel de Cervantes](http://data.cervantesvirtual.com/person/40), [Lope de Vega](http://data.cervantesvirtual.com/person/72) y [Calderón de la Barca](http://data.cervantesvirtual.com/person/79)). It is possible to change the authors by changing the identifiers (data.cervantesvirtual.com/person/id) that can be retrieved at data.cervantesvirtual.com.
 
 Then, the notebook creates a composite image with all the covers that is accessible at [easyzoom](https://www.easyzoom.com/imageaccess/acab10e5187b45d8ad802d8d302a4901). 
 
