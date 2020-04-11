@@ -1,3 +1,4 @@
 pandas
 requests
 Pillow==5.1.0
+tqdm==4.31.1
