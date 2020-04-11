@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-composite-image/master)
 
 # notebook-composite-image
-Jupyter notebook to create a composite image from covers of books from digital libraries
+Jupyter notebook to create a composite image using covers of books from digital libraries.
 
 ## Biblioteca Virtual Miguel de Cervantes (BVMC)
 This notebook retrieves the covers from the LOD repository of the BVMC. The authors selected in this example are [Miguel de Cervantes](http://data.cervantesvirtual.com/person/40), [Lope de Vega](http://data.cervantesvirtual.com/person/72) y [Calderón de la Barca](http://data.cervantesvirtual.com/person/79)). It is possible to change the authors by changing the identifiers (data.cervantesvirtual.com/person/id) that can be retrieved at data.cervantesvirtual.com.
