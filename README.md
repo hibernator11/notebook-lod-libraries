@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-composite-image/master)
+
 # notebook-composite-image
 Jupyter notebook to create a composite image from covers of books from digital libraries
 
