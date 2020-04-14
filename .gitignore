@@ -2,3 +2,6 @@ results.csv
 thumbs/*
 covers/*
 .ipynb_checkpoints/
+aux.json
+bnb_records.csv
+results.json
