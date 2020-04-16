@@ -13,7 +13,13 @@ The example has been limited to retrieve only 100 covers from the repository. Ho
 ## BNB Linked Data Platform
 The [BNB Linked Data Platform](https://bnb.data.bl.uk/) provides access to the [British National Bibliography (BNB)](http://www.bl.uk/bibliographic/natbib.html) published as linked open data and made available through SPARQL services. 
 
-This [notebook](bnb-lod-extraction-map.ipynb) explains how to query the repository and obtain places of publication (fields blt:publication and blt:projectedPublication ) to show an interactive map. Thanks that the works are linked to [GeoNames](https://www.geonames.org/), the records can be linked to external repositories. This notebook  obtains information from [Wikidata](https://www.wikidata.org), showing the benefits of Linked Open Data.
+This [notebook](bnb-lod-extraction-map.ipynb) explains how to query the repository and obtain places of publication (fields blt:publication and blt:projectedPublication ) to show an interactive map. Thanks that the works are linked to [GeoNames](https://www.geonames.org/), the records can be linked to external repositories. This notebook obtains information from [Wikidata](https://www.wikidata.org), showing the benefits of Linked Open Data.
+
+
+## Bibliothèque nationale de France (BnF)
+The Bibliothèque nationale de France published [data.bnf.fr](https://data.bnf.fr/) its resources by aggregating information scattered among its various catalogues and the Gallica digital library on dedicated HTML pages. Data.bnf.fr is an open data project based on semantic web standards and tools.
+
+This [notebook](bnf-graph-example.ipynb) shows how to exploit the editions of *les fleurs du mal de baudelaire* using different techniques. It also provides a CSV file as a dataset extracted from the SPARQL endpoint. This example shows how to analyse the information using the network graphs, identifying the most relevant characteristics of the infofmation retrieved.
 
 ## References & notes
 This [notebook](create-composite-bvmc.ipynb) has been inspired by the the [GLAM Workbench](https://glam-workbench.github.io/), in particular the [notebook to create a composite image from Trove newspaper](https://nbviewer.jupyter.org/github/GLAM-Workbench/trove-newspapers/blob/master/Composite-thumbnails.ipynb).
