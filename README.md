@@ -1,9 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-lod-libraries/master)
 
 
-[![DOI](https://zenodo.org/badge/254954138.svg)](https://zenodo.org/badge/latestdoi/254954138)
-
-
 # notebook-lod-libraries
 Jupyter notebooks to reuse the Linked Open Data provided by digital libraries.
 
