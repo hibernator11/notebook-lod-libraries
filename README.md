@@ -22,7 +22,7 @@ This [notebook](bnb-lod-extraction-map.ipynb) explains how to query the reposito
 ## Bibliothèque nationale de France (BnF)
 The Bibliothèque nationale de France published [data.bnf.fr](https://data.bnf.fr/) its resources by aggregating information scattered among its various catalogues and the Gallica digital library on dedicated HTML pages. Data.bnf.fr is an open data project based on semantic web standards and tools.
 
-This [notebook](bnf-graph-example.ipynb) shows how to exploit the editions of *les fleurs du mal de baudelaire* using different techniques. It also provides a CSV file as a dataset extracted from the SPARQL endpoint. This example shows how to analyse the information using the network graphs, identifying the most relevant characteristics of the infofmation retrieved.
+This [notebook](bnf-graph-example.ipynb) shows how to exploit the editions of *les fleurs du mal de baudelaire* using different techniques. It also provides a CSV file as a dataset extracted from the SPARQL endpoint. This example shows how to analyse the information using the network graphs, identifying the most relevant characteristics of the information retrieved.
 
 ## References & notes
 This [notebook](create-composite-bvmc.ipynb) has been inspired by the the [GLAM Workbench](https://glam-workbench.github.io/), in particular the [notebook to create a composite image from Trove newspaper](https://nbviewer.jupyter.org/github/GLAM-Workbench/trove-newspapers/blob/master/Composite-thumbnails.ipynb).
